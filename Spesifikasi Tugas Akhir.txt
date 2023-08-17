@@ -1,0 +1,38 @@
+Judul Tugas Akhir: Analisis Kinerja Jaringan 4G LTE : Studi Kasus Kawasan Perumahan Pemda Way Huwi Jati Agung Lampung Selatan.
+
+Latar Belakang:
+Saat ini kebutuhan jaringan internet semakin meningkat. Hal itu diperkuat dari survei APJII (Asosiasi Penyelenggara Jasa Internet Indonesia). Provider sebagai penyedia layanan internet secara tidak langsung dituntut untuk terus-menerus melakukan peningkatan kinerja jaringan internet agar terpenuhinya akses yang luas, komunikasi laju data tinggi dan kapasitas besar. Maka, penelitian ini dilakukan untuk mengetahui kinerja jaringan 4G LTE berdasarkan metode drive test menggunakan parameter RSRP, RSRQ dan SNR, menghitung cakupan jaringan berdasarkan link power budget, radius coverage, level daya terima dan mendapatkan hasil optimasi jaringan 4G LTE berdasarkan tinggi antena di lokasi penelitian. 
+
+Rumusan Masalah:
+Bagaimana kondisi jaringan 4G LTE  di kawasan Perumahan Pemda Way Huwi yang diukur berdasarkan data drive test? Bagaimana analisis kinerja jaringan 4G LTE di kawasan Perumahan Pemda Way Huwi berdasarkan pembagian area dan analisis lanjutan berdasarkan perhitungan serta simulasi menggunakan data drive test? Bagaimana cakupan jaringan 4G LTE di kawasan Perumahan Pemda Way Huwi Jati Agung Lampung Selatan sebelum dan setelah optimasi?
+
+Tujuan Penelitian:
+Mendapatkan analisis parameter jaringan 4G LTE yaitu RSRP, RSRQ dan SNR berdasarkan pembagian area. Mendapatkan analisis berdasarkan perhitungan dan simulasi cakupan jaringan 4G LTE di kawasan Perumahan Pemda Way Huwi Jati Agung, Lampung Selatan. Mendapatkan hasil optimasi jaringan 4G LTE di kawasan Perumahan Pemda Way Huwi Jati Agung, Lampung Selatan.
+
+Batasan Penelitian:
+Penelitian ini hanya berfokus terkait cakupan jaringan 4G LTE arah downlink. Penelitian ini tidak melakukan perancangan tambahan eNodeB. Penelitian ini tidak membahas pengaruh perpindahan cell. Optimasi jaringan pada penelitian ini hanya berdasarkan perubahan tinggi antena dan tidak membahas perubahan tilt. Penelitian ini hanya mengukur kinerja dan optimasi jaringan 4G LTE berdasarkan kondisi sebelum optimasi dan setelah optimasi menggunakan metode drive test, dan simulasi perancangan jaringan di software Atoll 3.3.
+
+Metode Penelitian:
+Metode Kuantitatif. Pengumpulan data melalui pengukuran langsung dan simulasi menggunakan perangkat lunak. Analisis data menggunakan teknik statistik untuk mengidentifikasi pola kinerja. Penggunaan  simulasi jaringan untuk menguji cakupan jaringan.
+
+Kerangka Teori:
+Konsep jaringan 4G LTE, parameter kinerja jaringan, faktor-faktor yang memengaruhi kinerja (cakupan, frekuensi, interferensi, noise dll.).
+
+Rencana Penelitian:
+Studi literatur tentang kinerja jaringan 4G LTE dan faktor-faktor yang memengaruhi. Pengumpulan data di lokasi penelitian berdasarkan perbedaan waktu. Analisis data untuk mengidentifikasi tren dan pola. Pengembangan model simulasi untuk menguji pengaruh parameter tertentu terhadap kinerja.
+Menganalisis hasil dan merekomendasikan solusi.
+
+Instrumen dan Teknik Pengumpulan Data:
+Pengukuran parameter RSRP, RSRQ, dan SNR di lapangan menggunakan perangkat pengukuran jaringan. Pengumpulan data penggunaan jaringan melalui operator telekomunikasi. Penggunaan perangkat lunak simulasi jaringan untuk memodelkan situasi tertentu.
+
+Analisis Data:
+Penggunaan analisis statistik deskriptif untuk menganalisis data pengukuran lapangan. Penggunaan simulasi untuk analisis perubahan cakupan antara sebelum dan sesudah optimasi jaringan.
+
+Ekspektasi Hasil:
+Diharapkan penelitian ini dapat memberikan manfaat kepada peneliti selanjutnya sebagai referensi pembelajaran dan pengembangan kinerja jaringan 4G LTE di kawasan Perumahan Pemda Way Huwi yang berkelanjutan. 
+
+Kontribusi Penelitian:
+Penelitian ini diharapkan dapat memberikan gambaran kepada operator telekomunikasi dan penyedia layanan terkait kinerja jaringan 4G LTE di lokasi penelitian.
+
+Referensi:
+Daftar sumber dan literatur yang relevan dengan topik kinerja jaringan 4G LTE.
