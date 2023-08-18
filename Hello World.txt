@@ -1,5 +1,3 @@
 hello world saja
 
 Mencoba menambahkan pembaharuan deskripsi
-
-Mencoba Pull Request melalui fork
